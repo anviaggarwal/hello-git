@@ -1,0 +1,5 @@
+git config --global user.name " ":This command is used to connect git with a specific account on github via username.
+git config --global user.email " ":This command is used to connect git with a specific account on github via email address.
+git add -A:This command is used to transfer file from working directory to staged area.
+git commit -m " ":This command is used to commit and display a message by the user simultaneously.
+git push -u origin master:This command is used to upload the document on github.
